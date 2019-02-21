@@ -22,7 +22,7 @@ var developer1 = new JavaScriptDeveloper('Zakia', 'Jeme');
 console.log(developer1.getName());
 console.log(developer1.getJob());
 
-const Greeting = () => {
+const greting = () => {
     return 'Welcome to React Dev';
 }
-console.log(Greeting());
+console.log(greting());
